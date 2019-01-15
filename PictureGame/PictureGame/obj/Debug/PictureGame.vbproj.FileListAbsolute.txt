@@ -1,0 +1,24 @@
+C:\Users\9351224\source\repos\PictureGame\PictureGame\bin\Debug\PictureGame.exe.config
+C:\Users\9351224\source\repos\PictureGame\PictureGame\bin\Debug\PictureGame.exe
+C:\Users\9351224\source\repos\PictureGame\PictureGame\bin\Debug\PictureGame.pdb
+C:\Users\9351224\source\repos\PictureGame\PictureGame\bin\Debug\PictureGame.xml
+C:\Users\9351224\source\repos\PictureGame\PictureGame\obj\Debug\PictureGame.vbprojAssemblyReference.cache
+C:\Users\9351224\source\repos\PictureGame\PictureGame\obj\Debug\PictureGame.Form1.resources
+C:\Users\9351224\source\repos\PictureGame\PictureGame\obj\Debug\PictureGame.Resources.resources
+C:\Users\9351224\source\repos\PictureGame\PictureGame\obj\Debug\PictureGame.vbproj.GenerateResource.cache
+C:\Users\9351224\source\repos\PictureGame\PictureGame\obj\Debug\PictureGame.vbproj.CoreCompileInputs.cache
+C:\Users\9351224\source\repos\PictureGame\PictureGame\obj\Debug\PictureGame.exe
+C:\Users\9351224\source\repos\PictureGame\PictureGame\obj\Debug\PictureGame.xml
+C:\Users\9351224\source\repos\PictureGame\PictureGame\obj\Debug\PictureGame.pdb
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\bin\Debug\PictureGame.exe.config
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\bin\Debug\PictureGame.exe
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\bin\Debug\PictureGame.pdb
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\bin\Debug\PictureGame.xml
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\obj\Debug\PictureGame.vbprojAssemblyReference.cache
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\obj\Debug\PictureGame.Form1.resources
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\obj\Debug\PictureGame.Resources.resources
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\obj\Debug\PictureGame.vbproj.GenerateResource.cache
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\obj\Debug\PictureGame.vbproj.CoreCompileInputs.cache
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\obj\Debug\PictureGame.exe
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\obj\Debug\PictureGame.xml
+C:\Users\9351224\source\repos\Programming 1\PictureGame\PictureGame\obj\Debug\PictureGame.pdb

@@ -1,5 +1,9 @@
 # MovingPictureGame
-Created using Visual Studio /n
-Visual Basic School Project /n
-Image moves around and user tries to click the image /n
-Multiple difficulties /n
+Created using Visual Studio
+
+Visual Basic School Project
+
+Image moves around and user tries to click the image
+
+Multiple difficulties
+
